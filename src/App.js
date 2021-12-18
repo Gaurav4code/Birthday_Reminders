@@ -12,6 +12,7 @@ export default function App() {
         <List people={people} />
         <button onClick={() => setPeople([])}>Clear All</button>
       </section>
+    
     </main>
   );
 }
