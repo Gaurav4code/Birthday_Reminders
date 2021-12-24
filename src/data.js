@@ -29,8 +29,13 @@ export default [
   },
   {
     id: 5,
+<<<<<<< CodeSandbox
+    name: "Lola Green",
+    age: 29,
+=======
     name: "Lola Gardner",
     age: 30,
+>>>>>>> GitHub
     image:
       "https://res.cloudinary.com/diqqf3eq2/image/upload/v1586883334/person-1_rfzshl.jpg"
   }
